@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tenserflow</string>
+    <string name="predict">预测</string>
+    <string name="title">基于机器学习的预测系统</string>
+    <string name="Fermentation_cycle">发酵周期</string>
+    <string name="initial_glucose">初始葡萄糖</string>
+    <string name="initial_pH">初始pH</string>
+    <string name="yeast_powder">酵母粉</string>
+    <string name="corn_pulp">玉米浆</string>
+    <string name="urea">尿素</string>
+    <string name="sodium_citrate">柠檬酸钠</string>
+    <string name="dipotassium_hydrogen_phosphate">磷酸氢二钾</string>
+    <string name="potassium_dihydrogen_phosphate">磷酸二氢钾</string>
+    <string name="magnesium_sulfate">硫酸镁</string>
+    <string name="sodium_sulfate">硫酸钠</string>
+    <string name="monosodium_glutamate">味精</string>
+    <string name="ammonium_sulfate">硫酸铵</string>
+    <string name="peptone">蛋白胨</string>
+    <string name="ammonium_chloride">氯化铵</string>
+    <string name="light">光照</string>
+    <string name="rotation_speed">转速</string>
+    <string name="glucose">葡萄糖</string>
+    <string name="pH">ph</string>
+    <string name="dry_weight_of_bacteria">菌体干重</string>
+    <string name="oil_yield">油脂产量</string>
+    <string name="oil_content">油脂含量</string>
+    <string name="PlaceTaker">占位键</string>
+    <string name="choise">选填</string>
+    <string name="addition">备注</string>
+</resources>
